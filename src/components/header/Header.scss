@@ -1,0 +1,14 @@
+$color-blue: #067eb2;
+$color_white: #FFFFFF;
+
+.hdr {
+    background-color: $color-blue;
+}
+.hdr h1 {
+    color: $color_white;
+}
+.hdr input[type=text] {
+    display: inline-block;
+    
+    padding: 0.7rem;
+}
